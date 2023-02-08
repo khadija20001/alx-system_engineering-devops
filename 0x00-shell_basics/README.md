@@ -19,3 +19,5 @@ SHELL,BASICS:
 *7-movethatfile is a script to move the file betty from /tmp/ to /tmp/my_first_directory.
 
 *8-firstdelete is a script to delete the file betty.
+
+*9-firstdirdeletion is a script to delete the directory my_first_directory.
