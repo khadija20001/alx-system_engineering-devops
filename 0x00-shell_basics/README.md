@@ -1,6 +1,6 @@
 #SHELL,BASICS:
 
-#we should use chmod u+x command to  change these files to executable files.
+#we should use chmod u+x command to  change these scripts to executable files.
 
 0-current_working_directory- is a script that prints the absolute path name of the current working directory.
 
