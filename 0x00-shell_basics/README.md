@@ -23,3 +23,7 @@ SHELL,BASICS:
 *9-firstdirdeletion is a script to delete the directory my_first_directory.
 
 *10-back is a script that changes the working directory to the previous one.
+
+*11-lists is a script to that lists all files in the current directory and the parent of the working directory and the /boot directory in long format.
+
+*12-file_type is a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
