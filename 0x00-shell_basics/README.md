@@ -9,3 +9,5 @@ SHELL,BASICS:
 *2-bring_me_home is script that make us change the working directory to the user’s home directory, and to run this script we use source command .
 
 *3-listfiles is a script to display current directory contents in a long format.
+
+*4-listmorefiles is a script to display current directory contents, including hidden files in a the long format.
