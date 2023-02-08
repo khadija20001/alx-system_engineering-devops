@@ -11,3 +11,5 @@ SHELL,BASICS:
 *3-listfiles is a script to display current directory contents in a long format.
 
 *4-listmorefiles is a script to display current directory contents, including hidden files in a the long format.
+
+*5-listfilesdigitonly is a script to display current directory contents,long format with user and group IDs displayed numerically and hidden files .
