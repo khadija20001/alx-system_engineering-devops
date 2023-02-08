@@ -21,3 +21,5 @@ SHELL,BASICS:
 *8-firstdelete is a script to delete the file betty.
 
 *9-firstdirdeletion is a script to delete the directory my_first_directory.
+
+*10-back is a script that changes the working directory to the previous one.
