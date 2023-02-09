@@ -16,6 +16,8 @@
 
 -7-everybody is a script that give the execute permission tothe owner,group owner and others.
 
--8-James_Bond is a scripte that give the owner and group owner no permission at all and give the others all the permissions
+-8-James_Bond is a script that give the owner and group owner no permission at all and give the others all the permissions
 
 -9-John_Doe is a script that give the owner the permission to read ,write and execut , give the group owner the permission to read and execute and give the others permission to write and execute.
+
+-10-mirror_permissions- is a script that give the mode of olleh to hello .
