@@ -13,3 +13,5 @@
 -5-execute is a script that give the permission to execute the owner hello .
 
 -6-multiple_permissions is a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+
+-7-everybody is a script that give the execute permission tothe owner,group owner and others.
