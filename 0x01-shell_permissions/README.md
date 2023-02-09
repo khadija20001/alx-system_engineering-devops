@@ -25,3 +25,5 @@
 -11-directories_permissions is a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 
 -12-directory_permissions is a script that creat a directory with permission 751.
+
+-13-change_group is a script for changing the group owner of hello to school.
