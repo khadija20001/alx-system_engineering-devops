@@ -7,3 +7,5 @@
 -2-gpoups is a script that display the names of all groups the current user is part of.
 
 -3-new_owner is a script that changes the owner of the file hello to the user betty.
+
+-4-empty is a script that creat file called hello.
