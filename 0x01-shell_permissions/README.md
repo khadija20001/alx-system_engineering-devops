@@ -20,4 +20,6 @@
 
 -9-John_Doe is a script that give the owner the permission to read ,write and execut , give the group owner the permission to read and execute and give the others permission to write and execute.
 
--10-mirror_permissions- is a script that give the mode of olleh to hello .
+-10-mirror_permissions is a script that give the mode of olleh to hello .
+
+-11-directories_permissions is a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
