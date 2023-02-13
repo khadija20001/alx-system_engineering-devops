@@ -13,3 +13,7 @@ this directory contain  several scripts about shell redirections and filters.
 4-lastlines this script print the last 10 lines in /etc/passwd.
 
 5-firstlines this script print the first 10 lines in /etc/passwd.
+
+6-third_line this script print the third line of iacta.
+
+7-file this script  create a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text "Best School".
