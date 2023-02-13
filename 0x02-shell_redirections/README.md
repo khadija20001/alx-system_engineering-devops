@@ -19,3 +19,7 @@ this directory contain  several scripts about shell redirections and filters.
 7-file this script  create a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text "Best School".
 
 8-cwd_state this script redirect the output of the ls -la command to ls_cwd_content file.
+
+9-duplicate_last_line is a script that duplicates the last line of the file iacta.
+
+10-no_more_js is  a script that deletes all the regular files (not the directories) with a .js . 
