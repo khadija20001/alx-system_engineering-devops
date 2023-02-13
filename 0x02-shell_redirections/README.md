@@ -17,3 +17,5 @@ this directory contain  several scripts about shell redirections and filters.
 6-third_line this script print the third line of iacta.
 
 7-file this script  create a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text "Best School".
+
+8-cwd_state this script redirect the output of the ls -la command to ls_cwd_content file.
