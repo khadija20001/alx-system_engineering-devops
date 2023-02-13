@@ -11,3 +11,5 @@ this directory contain  several scripts about shell redirections and filters.
 3-twofiles this script display the content of  /etc/passwd /etc/hosts
 
 4-lastlines this script print the last 10 lines in /etc/passwd.
+
+5-firstlines this script print the first 10 lines in /etc/passwd.
